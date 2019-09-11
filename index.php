@@ -1,7 +1,7 @@
 
-<?php include "inc/html-top.php"; ?>
+<?php include "project1/inc/html-top.php"; ?>
 
-<?php include "inc/nav.php"; ?>
+<?php include "project1/inc/nav.php"; ?>
 
 	<a href = "folder 2/lab01/index.php" >Clara</a>
 	<a href = "file 1/index.php">Ana</a>
