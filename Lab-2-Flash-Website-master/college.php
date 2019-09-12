@@ -1,6 +1,6 @@
-<?php include "inc/clara-top.php"; ?>
+<?php include "inc/andrew-top.php"; ?>
 
-<?php include "inc/nav.php"; ?>
+<?php include "inc/navn.php"; ?>
 	<main>
 		<h1>College Life</h1>
 		<p>
