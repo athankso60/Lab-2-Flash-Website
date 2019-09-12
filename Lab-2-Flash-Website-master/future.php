@@ -1,15 +1,7 @@
-<!DOCTYPE html>
-<html>
+<?php include "inc/andrew-top.php"; ?>
 
-<head>
-	<meta charset="utf-8">
-	<title>Future Plans |Andrew Thankson | Lab 1: Initial Personal Website</title>
-	<link rel="stylesheet" href="css/styles.css">
-</head>
+<?php include "inc/navn.php"; ?>
 
-	<?php include("inc/header.php"); ?>
-	<?php include "inc/nav.php"; ?>
-<body class = "container">
 	<main>
 		<h1>Future Plans</h1>
 		<p>
@@ -17,8 +9,10 @@
 		</p>
 	</main>
 
-
-	<?php $current = 'future'; include("inc/navn.php"); ?>
+	<footer>
+			CSC 174: Advanced Front-end and Web Design and Development
+	</footer>
+	
 	<?php include "js/scripts.php"; ?>
 
 </body>
