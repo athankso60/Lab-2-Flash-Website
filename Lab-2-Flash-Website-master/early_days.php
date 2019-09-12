@@ -1,16 +1,6 @@
-<!DOCTYPE html>
-<html>
+<?php include "inc/andrew-top.php"; ?>
 
-<head>
-	<meta charset="utf-8">
-	<title>Early Days|Andrew Thankson | Lab 1: Initial Personal Website</title>
-	<link rel="stylesheet" href="css/styles.css">
-</head>
-
-	
-	<?php include("inc/header.php"); ?>
-	<?php include "inc/nav.php"; ?>
-	<body class = "container">
+<?php include "inc/nav.php"; ?>
 
 		<main>
 		<h1>Early Days</h1>
@@ -19,9 +9,10 @@
 
 		</p>
 		</main>
+	<footer>
+			CSC 174: Advanced Front-end and Web Design and Development
+	</footer>
 
-
-	<?php $current = 'earlydays'; include("inc/navn.php"); ?>
 	<?php include "js/scripts.php"; ?>
 
 </body>
